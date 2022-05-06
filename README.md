@@ -1,3 +1,3 @@
 # Web-AlbumV2
-
-# For results : https://papada-fams.github.io/
+Cuman mengisi waktu luang saja buat begini
+## For results : https://papada-fams.github.io/
